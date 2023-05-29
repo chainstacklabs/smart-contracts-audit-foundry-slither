@@ -41,7 +41,7 @@ Follow the instructions detailed in the guide to setup your environment and begi
 * Clone this repository
 
 ```sh
-git clone 
+git clone https://github.com/chainstacklabs/smart-contracts-audit-foundry-slither.git
 ```
 
 * Install Slither and Foundry
